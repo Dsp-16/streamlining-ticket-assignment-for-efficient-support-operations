@@ -20,11 +20,11 @@ improved efficiency, and enhanced support operations.
 The organization faced several challenges with its manual ticket
 assignment process:
 
--   Manual assignment caused delays in ticket handling\
--   Tickets were often assigned to the wrong support team\
--   Uneven workload distribution among support staff\
--   Lack of automation increased operational effort\
--   No structured audit tracking of assignments\
+-   Manual assignment caused delays in ticket handling
+-   Tickets were often assigned to the wrong support team
+-   Uneven workload distribution among support staff
+-   Lack of automation increased operational effort
+-   No structured audit tracking of assignments
 -   Slow resolution reduced customer satisfaction
 
 ------------------------------------------------------------------------
@@ -44,41 +44,41 @@ assignment process:
 
 ### 1️⃣ User, Group, and Role Configuration
 
--   Created support users and end users\
--   Configured support groups (IT Support, Network Team, App Support)\
+-   Created support users and end users
+-   Configured support groups (IT Support, Network Team, App Support)
 -   Assigned roles for secure ticket handling
 
 ### 2️⃣ Custom Ticket Table Creation
 
--   Created a custom table for managing support tickets\
+-   Created a custom table for managing support tickets
 -   Configured fields such as Ticket Number, Category, Priority,
     Description, Assignment Group, Assigned To, and Status
 
 ### 3️⃣ Flow Designer Automation
 
--   Implemented automated ticket assignment using Flow Designer\
+-   Implemented automated ticket assignment using Flow Designer
 -   Configured routing logic based on category and priority
 
 ### 4️⃣ Access Control (ACL) Implementation
 
--   Implemented role-based access control\
+-   Implemented role-based access control
 -   Ensured secure access to ticket data
 
 ### 5️⃣ Testing and Validation
 
--   Tested ticket creation and assignment\
--   Verified automation logic\
+-   Tested ticket creation and assignment
+-   Verified automation logic
 -   Validated access controls and notifications
 
 ------------------------------------------------------------------------
 
 ## 🔐 Key Features
 
--   🎫 Automated Ticket Assignment\
--   ⚡ Workflow Automation using Flow Designer\
--   🔒 Role-Based Access Control (ACL)\
--   📊 Audit Logging and Tracking\
--   📧 Automatic Notifications\
+-   🎫 Automated Ticket Assignment
+-   ⚡ Workflow Automation using Flow Designer
+-   🔒 Role-Based Access Control (ACL)
+-   📊 Audit Logging and Tracking
+-   📧 Automatic Notifications
 -   🧪 Complete Testing and Validation
 
 ------------------------------------------------------------------------
@@ -101,22 +101,22 @@ assignment process:
 
 ## 🚀 Implementation Steps Summary
 
-1.  Created users and support groups\
-2.  Assigned roles\
-3.  Created custom ticket table\
-4.  Configured ticket fields\
-5.  Implemented Flow Designer automation\
-6.  Configured ACL security rules\
+1.  Created users and support groups
+2.  Assigned roles
+3.  Created a custom ticket table
+4.  Configured ticket fields
+5.  Implemented Flow Designer automation
+6.  Configured ACL security rules
 7.  Tested routing logic
 
 ------------------------------------------------------------------------
 
 ## 📈 Benefits
 
--   Faster ticket assignment\
--   Reduced manual effort\
--   Improved support efficiency\
--   Accurate ticket routing\
+-   Faster ticket assignment
+-   Reduced manual effort
+-   Improved support efficiency
+-   Accurate ticket routing
 -   Better customer satisfaction
 
 ------------------------------------------------------------------------
@@ -124,7 +124,7 @@ assignment process:
 ## 📌 Conclusion
 
 This project successfully automates the ticket assignment process using
-ServiceNow, replacing manual routing with an efficient and scalable
+ServiceNow is replacing manual routing with an efficient and scalable
 automated solution.
 
 It improves operational efficiency, ensures correct ticket routing, and
