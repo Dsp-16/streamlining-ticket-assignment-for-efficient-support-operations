@@ -1,6 +1,6 @@
-# 🎫 Streamlining Ticket Assignment for Efficient Support Operations -- ServiceNow Project
+# 🎟️ Streamlining Ticket Assignment for Efficient Support Operations -- ServiceNow Project
 
-## 📌 Project Overview
+## 📖 Project Overview
 
 This project focuses on designing and implementing an automated ticket
 assignment system using the ServiceNow platform.
@@ -29,7 +29,7 @@ assignment process:
 
 ------------------------------------------------------------------------
 
-## 👥 Team Members Details
+## 👨‍👩‍👧‍👦Team Members Details
 
 | Role | Name |
 |-----|------|
@@ -75,10 +75,10 @@ assignment process:
 ## 🔐 Key Features
 
 -   🎫 Automated Ticket Assignment
--   ⚡ Workflow Automation using Flow Designer
+-   ⚙️ Workflow Automation using Flow Designer
 -   🔒 Role-Based Access Control (ACL)
 -   📊 Audit Logging and Tracking
--   📧 Automatic Notifications
+-   📩 Automatic Notifications
 -   🧪 Complete Testing and Validation
 
 ------------------------------------------------------------------------
@@ -121,7 +121,7 @@ assignment process:
 
 ------------------------------------------------------------------------
 
-## 📌 Conclusion
+## 📝 Conclusion
 
 This project successfully automates the ticket assignment process using
 ServiceNow is replacing manual routing with an efficient and scalable
@@ -134,4 +134,4 @@ enhances support service quality.
 
 
 
-⭐ **Project Title:** Completed by Team LTVIP2026TMIDS85769
+🏁 **Project Title:** Completed by Team LTVIP2026TMIDS85769
